@@ -17,5 +17,6 @@ Step 3: Open the file 'Vic-II-Modern-History-Mod-MHM-master' and then move the '
 Step 4: Check the option for only 'Modern History Mod...' in the Victoria 2 launcher then launch the game.
 
 Note: Different steps may be needed if your game is pirated, not the Steam version or if your Victoria 2\mod directory has yet to be created.
+Consult the picture form of the installation instructions if these instructions are unclear or if you're one of the people that learns more by seeing than reading.
 
 Enjoy!
